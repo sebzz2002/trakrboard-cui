@@ -9,7 +9,7 @@
       "android"
     ],
     "ios": {
-      "bundleIdentifier": "com.solito.expo-router"
+      "bundleICD dentifier": "com.solito.expo-router"
     }
   }
 }
